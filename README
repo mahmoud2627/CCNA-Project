@@ -1,1 +1,25 @@
+This project for Bank Design infrastructure and branches:
+vlan - SVIs for inter-vlans
+
+Enable portfast
+
+Enable port security Maximum 2 - Sticky 
+
+HSRP
+
+You can Add --> EtherChannel (LACP)
+
+Configure Servers (DNS-DHCP-Website) 
+
+OSPF area 0 
+
+Enable Default Router in R3
+
+DHCP server
+
+DNS
+
+Voice VLAN
+
+NAT
 

@@ -1,7 +1,7 @@
-##Networking Project: VLANs, Inter-VLAN Routing, and Advanced Configuration:
+## Networking Project: VLANs, Inter-VLAN Routing, and Advanced Configuration:
 
 
-###Project Overview
+### Project Overview
 This project focuses on configuring a network with multiple VLANs, inter-VLAN routing using SVIs, enabling security and redundancy features, and setting up essential network services. The main objectives include:
 
 VLAN creation and inter-VLAN routing with SVIs.

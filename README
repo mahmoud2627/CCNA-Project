@@ -1,30 +1,15 @@
-This project for Bank Design infrastructure and branches:
+#Networking Project: VLANs, Inter-VLAN Routing, and Advanced Configuration:
 
-[Screenshot 2024-08-29 041800](https://github.com/user-attachments/assets/e29aad52-0287-4227-b1f6-c07796634b4c)
 
-#configuration:
+Project Overview
+This project focuses on configuring a network with multiple VLANs, inter-VLAN routing using SVIs, enabling security and redundancy features, and setting up essential network services. The main objectives include:
 
-vlan - SVIs for inter-vlans
+VLAN creation and inter-VLAN routing with SVIs.
+Enabling PortFast and PortSecurity with sticky MAC addresses.
+Configuring HSRP for redundancy.
+Implementing EtherChannel with LACP.
+Setting up DNS, DHCP, and Web servers.
+Configuring OSPF in area 0.
+Setting a default route on Router R1.
 
-Enable portfast
-
-Enable port security Maximum 2 - Sticky 
-
-HSRP
-
-You can Add --> EtherChannel (LACP)
-
-Configure Servers (DNS-DHCP-Website) 
-
-OSPF area 0 
-
-Enable Default Router in R3
-
-DHCP server
-
-DNS
-
-Voice VLAN
-
-NAT
 
